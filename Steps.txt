@@ -1,0 +1,12 @@
+1.Data Preprocessing
+remove headings, numeric data, newlines and extra spaces from the text
+Convert all the text to lower case
+Removing stopwords from the text
+removing some archaic words from the text
+
+2.Unsupervised Sentiment Analysis using afinn package
+Gather the most positive and most negative lines of each of the chapter
+Represent a graph of the different scores of the chapter
+
+3.Supervised Sentiment Analysis using BERT
+
