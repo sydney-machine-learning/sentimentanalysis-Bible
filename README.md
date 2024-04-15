@@ -15,7 +15,7 @@ sentimentanalysis_Bible
 │   ├── Chapterwise-sentiments
 │   ├── Cumulative sentiments
 │   ├── Polarity
-│   ├── Top optimistic-pessimistic bigrams and trigrams
+│   └── Top optimistic-pessimistic bigrams and trigrams
 ├── text_cleaning.py    # Script used to clean raw data and cannonicalize formats
 ├── Steps.txt      # Overview of steps followed
 ├── verse_by_verse_polarity.ipynb     #Notebook used for the polarity analysis of verses
