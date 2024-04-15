@@ -22,5 +22,6 @@ sentimentanalysis_Bible
 └── Sermon_On_The_Mount_Sentiment_Analysis_5.ipynb    # Notebook used for all the final analysis and plots
 ```
 
+The requirements are installed in the notebook cells itself whenever required (versions specified)
 
 
